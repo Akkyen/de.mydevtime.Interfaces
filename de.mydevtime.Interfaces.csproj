@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Version>0.1</Version>
+        <Title>MyDevTime Interfaces</Title>
+        <Authors>Benedikt Papiorek</Authors>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Description>Interface collection of MyDevTime.</Description>
+        <Copyright>MyDevTime</Copyright>
+        <RepositoryUrl>/home/benediktp/.nuget/packages/</RepositoryUrl>
+        <Company>MyDevTime</Company>
+    </PropertyGroup>
+
+</Project>
